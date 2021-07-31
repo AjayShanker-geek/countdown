@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img height='25' alt='icon' src='readme-images/icon/icon_main.png'/>  Countdown++</h1><p align="center">Made for Singapore's Full-Time National Servicemen <b>(NSFs)</b> &amp;  <b>NSmen</b>, with Support on both iOS and Android platforms!.</p>
+<h1 align="center"> <img height='25' alt='icon' src='readme-images/icon/icon_main.png'/>  Countdown++</h1><p align="center"> Countdown made simple by a solo developer</p>
 
 ![Made with Flutter](https://img.shields.io/badge/Made%20With-Flutter-blue?style=flat)
 
@@ -17,41 +17,17 @@
 
 ## 🚀 Features
 
-<summary>
+<!-- <summary>
 <b>For All</b>
-</summary>
+</summary> -->
 
-- 🔋 Light/Dark Mode
-- 🌈 Custom Colour Accent<br />
-- 📱 Support iOS 14 Widgets<br />
-- 🧮 IPPT Calculator<br />
-- 📰 Resources & Blogs for newbies<br />
-- 💪 BMI Calculator<br />
-- ⛈ Weather<br />
-- ☎️ Contacts<br />
-- 🦺 Safety Resources<br />
-- ⌚ Apple Watch Support<br />
-- 🛎 Monthly Notification<br />
-- 🫀 HealthKit/GoogleFit Integration <br />
+- ❌ No Ads!!!
+- ⏲ CountDown↯ Anything
+- 📆 Quickly Import Calendar Events<br />
+- 🔔 Notification<br />
+- 🎯 Light/Dark Mode<br />
+- 🎨 Beautiful Theme & Accent<br />
 
-
-<summary>
-<b>For NSF</b>
-</summary>
-
-- 🛩 Leave & OIL Tracker<br />
-- 👣 Track Your Promotion<br />
-- 💵 Payday Notification<br />
-- 🎉 Days to ORD Countdown<br />
-- 🗓 Calendar View<br />
-
-
-<summary>
-<b>For NSmen</b>
-</summary>
-
-- 🔍 Track ICT Left<br />
-- 📆 IPPT Dateline<br />
 
 ## 🎗 Support
 Liking this project?
