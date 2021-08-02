@@ -1,5 +1,5 @@
 
-<h1 align="center"> <img height='25' alt='icon' src='readme-images/icon/icon_main.png'/>  Count↯</h1><p align="center"> ✨ Count↯ made simple by a solo developer</p>
+<h1 align="center"> <img height='25' alt='icon' src='readme-images/icon/icon_main.png'/>  CountDown++</h1><p align="center"> ✨ CountDown++ made simple by a solo developer</p>
 
 ![Made with Flutter](https://img.shields.io/badge/Made%20With-Flutter-blue?style=flat)
 
