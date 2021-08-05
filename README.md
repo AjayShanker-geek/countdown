@@ -21,7 +21,7 @@
 <b>For All</b>
 </summary> -->
 
-- ❌ No Ads!!!
+<!-- - ❌ No Ads!!! -->
 - ⏲ CountDown↯ Anything
 - 📆 Quickly Import Calendar Events<br />
 - 🔔 Notification<br />
